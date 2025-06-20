@@ -2,6 +2,8 @@
 
 A Power BI dashboard project that provides interactive analytics and visualizations for Netflix data. This repository contains Power BI reports, datasets, and supporting materials to help users explore trends, usage, and insights related to Netflix content and user behavior.
 
+![image](https://github.com/user-attachments/assets/6b624156-14f5-4efb-942f-2ae77204f982)
+
 ## Features
 
 - Interactive Power BI dashboard for visualizing Netflix data
